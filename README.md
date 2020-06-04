@@ -35,4 +35,14 @@ Emerging Researchers in Artificial Life
 
 # Additional Resources
 
+## Organizations
+
 [Campaign Zero](https://www.joincampaignzero.org/)
+
+## Readings
+
+[White Supremacy Culture in Organizations](https://www.thc.texas.gov/public/upload/preserve/museums/files/White_Supremacy_Culture.pdf)
+
+## Community Voices
+
+Thread: [What do white educators need to do tomorrow?](https://threadreaderapp.com/thread/1267333391604527104.html)

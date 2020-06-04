@@ -6,11 +6,11 @@ Emerging Researchers in Artificial Life stands with Black communities in America
 
 There is much work to be done inside and outside our communities. See the bottom of this page for additional resources. 
 
-Below are five initial demands for steps to build equity within the Artificial Life community. 
+Below are five initial demands for steps to build equity within the Artificial Life community. ERA recognizes the challenges inherent in taking these steps. However, they are essential to creating lasting and meaningful change within our home institutions, our home communities, and our academic society as a whole.
 
 ## 1. Eliminate the GRE from program requirements.
 
-The GRE (Graduate Readiness Exam) is widely recognized as [a barrier for underrepresenated groups](https://smallpondscience.com/2019/03/08/what-are-the-reasons-we-have-for-dropping-the-gre/) Many members of the Artificial Life community have power within their institutions to change program requirements for their department, college, or even university. **Academic units should drop the requirement for GRE scores to be considered for admission to graduate admissions.**
+The GRE (Graduate Readiness Exam) is widely recognized as [a barrier for underrepresenated groups](https://smallpondscience.com/2019/03/08/what-are-the-reasons-we-have-for-dropping-the-gre/). Many members of the Artificial Life community have power within their institutions to change program requirements for their department, college, or even university. **Academic units should drop the requirement for GRE scores to be considered for admission to graduate admissions.**
 
 ## 2. Establish paid work for equity and diversity.
 
@@ -28,10 +28,9 @@ ISAL has the power to invest funds in those areas of our community which are in 
 
 ISAL chose not to host an in-person conference in Summer 2020 when it would have been a grave public health concern. This decision was well-made and shows ISAL's commitment to their members' safety. Likewise, ISAL should refuse to host conferences in states or countries where some of its attendees run high risk of being subject to police brutality. There are [measurable steps to combat police brutality and ways to track what policies have been adopted](https://www.joincampaignzero.org/solutions). **Locations which do not meet Campaign Zero's criteria for defunded and demilitarized police should not be considered for ISAL conferences.**
 
-ERA recognizes the challenges inherent in taking these large steps. However, they are essential to creating lasting and meaningful change within our home institutions, our home communities, and our academic society as a whole. 
-
-### Signatures
+# Signatures
 *Create a pull request to add your name, or email acacia.ackles [at] gmail [dot] com.*
+
 Emerging Researchers in Artificial Life
 
 # Additional Resources

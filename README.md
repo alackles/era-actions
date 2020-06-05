@@ -6,7 +6,7 @@ Emerging Researchers in Artificial Life stands with Black communities in America
 
 There is much work to be done inside and outside our communities. See the bottom of this page for additional resources. 
 
-Below are five initial demands for steps to build equity within the Artificial Life community. ERA recognizes the challenges inherent in taking these steps. However, they are essential to creating lasting and meaningful change within our home institutions, our home communities, and our academic society as a whole.
+Below are five essential actions to build equity within the Artificial Life community. ERA recognizes the challenges inherent in taking these steps. However, we must take them in order to creating lasting and meaningful change within our home institutions, our home communities, and our academic society as a whole.
 
 ## 1. Eliminate the GRE from program requirements.
 
@@ -31,7 +31,15 @@ ISAL chose not to host an in-person conference in Summer 2020 when it would have
 # Signatures
 *Create a pull request to add your name, or email acacia.ackles [at] gmail [dot] com.*
 
+## Organizations 
+
 Emerging Researchers in Artificial Life
+
+## Individuals
+
+Acacia Ackles | PhD Student, Michigan State University
+Lauren Gillespie | PhD Student, Stanford University
+Alexander Lalejini | PhD Candidate, Michigan State University
 
 # Additional Resources
 

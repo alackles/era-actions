@@ -1,6 +1,9 @@
 # 5 Steps for Racial Justice in Artificial Life (US-Centric)
 
-*This page is a living, working document based on community feedback and needs. Make a pull request of the repo in order to add your own thoughts and suggestions.* 
+*This page is a living, working document based on community feedback and needs. Make a pull request of the repo in order to add your own thoughts and suggestions.*
+
+* [Signatures](#signatures)
+* [Additional Resources](#resources)
 
 Emerging Researchers in Artificial Life stands with Black communities in America in their struggle for equity and condemns police brutality in all its forms, overt and covert. 
 
@@ -8,7 +11,9 @@ There is much work to be done inside and outside our communities. See the bottom
 
 Below are five essential actions to build equity within the Artificial Life community. ERA recognizes the challenges inherent in taking these steps. However, we must take them in order to creating lasting and meaningful change within our home institutions, our home communities, and our academic society as a whole.
 
-## Within Our Communities
+# Essential Actions for the ALife Community
+
+## Within Academic Institutions
 
 ### 1. Eliminate the GRE from US program requirements.
 
@@ -34,7 +39,7 @@ The other important aspect of investing in scholarship is investing time and men
 
 ISAL chose not to host an in-person conference in Summer 2020 when it would have been a grave public health concern. This decision was well-made and shows ISAL's commitment to their members' safety. Likewise, ISAL should refuse to host conferences in states or countries where some of its attendees run high risk of being subject to police brutality. There are [measurable steps to combat police brutality and ways to track what policies have been adopted](https://www.joincampaignzero.org/solutions). **Locations which do not meet Campaign Zero's criteria for defunded and demilitarized police should not be considered for ISAL conferences.**
 
-# Signatures
+# Signatures <a name="signatures"></a>
 *Create a pull request to add your name, or email acacia.ackles [at] gmail [dot] com.*
 
 ## Organizations
@@ -48,7 +53,7 @@ Lauren Gillespie | PhD Student, Stanford University
 Alexander Lalejini | PhD Candidate, Michigan State University
 Matthew Andres Moreno | PhD Student, Michigan State University
 
-# Additional Resources
+# Additional Resources <a name="resources"></a>
 
 ## Organizations
 

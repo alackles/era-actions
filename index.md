@@ -40,6 +40,7 @@ Emerging Researchers in Artificial Life
 Acacia Ackles | PhD Student, Michigan State University
 Lauren Gillespie | PhD Student, Stanford University
 Alexander Lalejini | PhD Candidate, Michigan State University
+Matthew Andres Moreno | PhD Student, Michigan State University
 
 # Additional Resources
 

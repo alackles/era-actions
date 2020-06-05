@@ -26,11 +26,9 @@ In the past three years (the entirety of the merged ALIFE-ECAL conference histor
 
 ### 4. Invest in Black scholarship.
 
-ISAL has the power to invest funds in those areas of our community which are in greatest need. Recently, ISAL started a student and postdoc travel fund, with the understanding that these communities are in greater need of funding. ISAL can and should make a similar commitment to fund Black scholars; research has shown that [simply investing money in Black scholars greatly improves retention rates](https://www.aip.org/diversity-initiatives/team-up-task-force). 
+ISAL has the power to invest funds in those areas of our community which are in greatest need. Recently, ISAL started a student and postdoc travel fund, with the understanding that these communities are in greater need of funding. ISAL can and should make a similar commitment to fund Black scholars; research has shown that [simply investing money in Black scholars greatly improves retention rates](https://www.aip.org/diversity-initiatives/team-up-task-force). **ISAL should set up a scholarship/travel fund to invest in Black scholars in Artificial Life, particularly early-career scholars.**
 
-The other important aspect of investing in scholarship is investing time and mentorship opportunities. Black scholars are often isolated and left without the same resources as their non-Black colleagues. A mentorship network will take time and extensive conversation to make sure the burden is not falling just on those who we are trying to uplift, but the conversation must start somewhere. 
-
-**ISAL should set up a scholarship/travel fund and a digital mentorship network to invest in Black scholars in Artificial Life, particularly early-career scholars.**
+The other important aspect of investing in scholarship is investing time and mentorship opportunities. Black scholars are often isolated and left without the same resources as their non-Black colleagues. A mentorship network will take time and extensive conversation to make sure [the burden is not falling just on those who we are trying to uplift](https://www.cnn.com/2018/11/28/success/diversity-work-burden/index.html), but the conversation must start somewhere. **ISAL should begin creating a digital network for mentorship to more effectively connect early career scholars with advanced scholars, and listen to past pitfalls about the inequity of such networks.**
 
 ### 5. Refuse to host conferences in locations without protections against police brutality. 
 

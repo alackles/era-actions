@@ -15,9 +15,9 @@ Below are five essential actions to build equity within the Artificial Life comm
 
 ## Within Academic Institutions
 
-### 1. Eliminate the GRE from US program requirements.
+### 1. Eliminate standardized testing as a barrier to academic entry.
 
-The GRE (Graduate Record Exam) is a requirement for application to most US graduate programs. It is also widely recognized as [a barrier for underrepresenated groups](https://smallpondscience.com/2019/03/08/what-are-the-reasons-we-have-for-dropping-the-gre/). Many members of the Artificial Life community have power within their institutions to change program requirements for their department, college, or even university. **ISAL members should advocate for dropping GRE scores as admission requirements.**
+Standardized testing is ineffective at best and dscriminatory at worst. As one example, the GRE (Graduate Record Exam) is a requirement for application to most US graduate programs. It is also widely recognized as [a barrier for underrepresenated groups](https://smallpondscience.com/2019/03/08/what-are-the-reasons-we-have-for-dropping-the-gre/). Many members of the Artificial Life community have power within their institutions to change program requirements for their department, college, or even university. **ISAL members in the US should advocate for dropping GRE scores as an admission requirement. ISAL members elsewhere should eliminate similar standardized requirements.**
 
 ### 2. Establish paid work for equity and diversity.
 

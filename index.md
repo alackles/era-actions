@@ -54,6 +54,7 @@ Alexander Lalejini | PhD Candidate, Michigan State University
 Matthew Andres Moreno | PhD Student, Michigan State University
 Kasia Kozdon | PhD Candidate, University College London
 Emily Dolson | Postdoctoral Fellow, Cleveland Clinic
+Dennis Wilson | Associate Professor, University of Toulouse
 
 # Additional Resources <a name="resources"></a>
 

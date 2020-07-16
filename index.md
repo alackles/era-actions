@@ -55,6 +55,7 @@ Matthew Andres Moreno | PhD Student, Michigan State University
 Kasia Kozdon | PhD Candidate, University College London
 Emily Dolson | Postdoctoral Fellow, Cleveland Clinic
 Dennis Wilson | Associate Professor, University of Toulouse
+Austin Ferguson | PhD Student, Michigan State University
 
 # Additional Resources <a name="resources"></a>
 
